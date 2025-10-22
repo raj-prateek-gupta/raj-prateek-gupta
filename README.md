@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Raj Gupta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">Exploring the World of Machine Learning 🤖</h3>
+<h3 align="center">Exploring the World of Machine Learning and GenAI 🤖</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning **
 
-- 📫 How to reach me **pk2479589@gmail.com**
+- 📫 How to reach me **prateekgupta11.40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
