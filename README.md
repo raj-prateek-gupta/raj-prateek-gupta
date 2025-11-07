@@ -4,7 +4,7 @@
 
 <!-- ANIMATED CODING GIF -->
 <p align="center">
-  <img src="https://i.ibb.co/7bQQYkX/ai-banner-dark.gif" width="100%" alt="AI Banner">
+  <img src="https://i.ibb.co/pwPL8pZ/neural-network-banner.gif" width="400" alt="Neural Network Banner">
 </p>
 
 <!-- PROFILE VIEWS -->
