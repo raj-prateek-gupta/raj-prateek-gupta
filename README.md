@@ -4,7 +4,7 @@
 
 <!-- ANIMATED CODING GIF -->
 <p align="center">
-  <img src="https://i.ibb.co/9sY3BvT/coding-banner.gif" width="400" alt="Coding Banner">
+  <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="400" alt="coding-gif">
 </p>
 
 <!-- PROFILE VIEWS -->
