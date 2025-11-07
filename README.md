@@ -40,7 +40,9 @@
 
 ### 🧠 Languages & Tools  
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python,html,css,figma,mysql,tensorflow,pytorch,sklearn,opencv,git,github,vscode,notion&perline=7" /></a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,html,css,figma,mysql,tensorflow,pytorch,sklearn,opencv,git,github,vscode,notion&perline=7" />
+  </a>
 </p>
 
 ---
@@ -58,9 +60,10 @@
 ---
 
 ### 🚀 Featured Projects  
-🧩 **[Movie Recommender System](https://github.com/Raj-prateek-gupta/Movie-Recommender-System)** – A personalized movie suggestion system built with ML & Streamlit  
+🎬 **[Movie Recommender System](https://github.com/Raj-prateek-gupta/Movie-Recommender-System)** – A personalized movie suggestion system built with ML & Streamlit  
 💉 **[Heart Disease Prediction](https://github.com/Raj-prateek-gupta/Heart-Disease-Prediction)** – Predictive model using healthcare data  
-🎮 **[Tic Tac Toe (Pygame)](https://github.com/Raj-prateek-gupta/Tic-Tac-Toe)** – Fun interactive game made in Python  
+📧 **[SmartMailReader](https://github.com/Raj-prateek-gupta/SmartMailReader)** – An AI tool that intelligently reads and summarizes your emails  
+🌳 **[Decision Tree Classifier](https://github.com/Raj-prateek-gupta/Decision-Tree-Classifier)** – Interactive web app to visualize decision boundaries and model predictions  
 
 ---
 
