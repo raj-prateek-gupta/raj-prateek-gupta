@@ -1,26 +1,81 @@
-<h1 align="center">Hi 👋, I'm Prateek Raj Gupta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">Exploring the World of Machine Learning and GenAI 🤖</h3>
+<!-- HEADER -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#2F80ED;">Prateek Raj Gupta</span></h1>
+<h3 align="center">🚀 Exploring the World of Machine Learning, Deep Learning & GenAI 🤖</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-prateek-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Raj-prateek-gupta" /> </p>
-
-- 🔭 I’m currently working on **Machine Learning and Deep Learning **
-
-- 📫 How to reach me **prateekgupta11.40@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prateek-raj-gupta-03127b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateek raj gupta" height="30" width="40" /></a>
-<a href="https://kaggle.com/prateekraj11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raj-prateek-gupta" height="30" width="40" /></a>
-
+<!-- ANIMATED CODING GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="400" alt="coding-gif">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raj-prateek-gupta&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Raj-prateek-gupta" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-prateek-gupta&show_icons=true&locale=en&layout=compact" alt="braj-prateek-gupta" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-prateek-gupta&show_icons=true&locale=en" alt="raj-prateek-gupta" /></p>
+### 👨‍💻 About Me  
+- 🔭 Currently diving deep into **Machine Learning**, **Deep Learning**, and **Generative AI**  
+- 🌱 Expanding my skills in **Computer Vision**, **LangChain**, and **AI Agents**  
+- 💡 I love building **ML-powered applications** with intuitive frontends  
+- 🎯 Goal: Become an **AI Engineer** with expertise in real-world AI solutions  
+- 📫 Reach me at: **prateekgupta11.40@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-prateek-gupta&" alt="raj-prateek-gupta" /></p>
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/prateek-raj-gupta-03127b229/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/prateekraj11" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:prateekgupta11.40@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 Languages & Tools  
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python,html,css,figma,mysql,tensorflow,pytorch,sklearn,opencv,git,github,vscode,notion&perline=7" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Raj-prateek-gupta&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-prateek-gupta&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-prateek-gupta&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+🧩 **[Movie Recommender System](https://github.com/Raj-prateek-gupta/Movie-Recommender-System)** – A personalized movie suggestion system built with ML & Streamlit  
+💉 **[Heart Disease Prediction](https://github.com/Raj-prateek-gupta/Heart-Disease-Prediction)** – Predictive model using healthcare data  
+🎮 **[Tic Tac Toe (Pygame)](https://github.com/Raj-prateek-gupta/Tic-Tac-Toe)** – Fun interactive game made in Python  
+
+---
+
+### 🧩 Fun Zone  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+---
+
+### ⚡ Fun Fact  
+> "I turn coffee ☕ into code 💻 and ideas into intelligent systems 🤖"
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+</p>
