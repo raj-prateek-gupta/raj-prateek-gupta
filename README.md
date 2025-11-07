@@ -25,7 +25,7 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/prateek-raj-gupta-03127b229/" target="_blank">
+  <a href="https://www.linkedin.com/in/prateek-kumar-03127b229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://kaggle.com/prateekraj11" target="_blank">
