@@ -50,12 +50,12 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj-prateek-gupta&theme=tokyonight" alt="General stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-prateek-gupta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj-prateek-gupta&theme=tokyonight" alt="General stats" />
+  <img height="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-prateek-gupta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-prateek-gupta&theme=tokyonight" alt="Profile details badge" />
+  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-prateek-gupta&theme=tokyonight" alt="Profile details badge" />
 </p>
 
 
