@@ -48,14 +48,13 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj-prateek-gupta&theme=tokyonight" alt="General stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-prateek-gupta&theme=tokyonight" alt="Profile details badge"/>
-</p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-prateek-gupta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj-prateek-gupta&theme=tokyonight" alt="General stats" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-prateek-gupta&theme=tokyonight" alt="Profile details badge" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-prateek-gupta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
