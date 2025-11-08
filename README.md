@@ -49,7 +49,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj-prateek-gupta&theme=tokyonight)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Raj-prateek-gupta&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-prateek-gupta&theme=tokyonight&hide_border=true" />
 </p>
 
