@@ -50,7 +50,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj-prateek-gupta&theme=tokyonight" alt="General stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-prateek-gupta&theme=tokyonight&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-prateek-gupta&theme=tokyonight" alt="Profile details badge"/>
 </p>
 
 <p align="center">
