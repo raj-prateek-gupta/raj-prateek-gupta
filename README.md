@@ -51,7 +51,7 @@
 
 <p align="center">
   <img height="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj-prateek-gupta&theme=tokyonight" alt="General stats" />
-  <img height="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-prateek-gupta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj-prateek-gupta&theme=tokyonight" alt="Top languages by repo badge"/>
 </p>
 
 <p align="center">
