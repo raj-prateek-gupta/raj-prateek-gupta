@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-prateek-gupta&theme=tokyonight" alt="Profile details badge" />
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-prateek-gupta&theme=tokyonight" alt="Profile details badge" />
 </p>
 
 
